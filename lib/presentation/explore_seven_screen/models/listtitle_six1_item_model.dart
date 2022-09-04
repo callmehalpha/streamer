@@ -1,0 +1,1 @@
+class ListtitleSix1ItemModel {}
