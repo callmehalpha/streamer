@@ -1,0 +1,1 @@
+class Drama3ItemModel {}
